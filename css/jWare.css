@@ -1,0 +1,22 @@
+.center
+{
+  position: relative;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body
+{
+  background-color: black;
+}
+
+.text
+{
+  color: #006CB7;
+}
+
+h1.text
+{
+  text-shadow: 5px 5px 5px #FF0000;
+}
